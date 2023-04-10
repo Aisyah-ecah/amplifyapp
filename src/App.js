@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React from 'react;
 import logo from './logo.svg';
 import './App.css';
@@ -9,7 +8,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello Test1 Good Luck</h1>
-        </a>
       </header>
     </div>
   );
